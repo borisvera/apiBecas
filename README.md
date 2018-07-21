@@ -1,2 +1,2 @@
-# Banking API - Clean Architecture
-Banking API - Clean Architecture
+# Beca de Estudiantes API - Clean Architecture
+Beca API - Clean Architecture
